@@ -28,7 +28,9 @@ The **Stock Management System** is a Command Line Interface (CLI) application de
 - 🗃️ **Data Structures**
 
 ---
+## 🎥 **Project Walkthrough Video**
 
+[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://youtu.be/tUPc-z3246c)
 ## 📚 **Learning Outcomes**
 
 This project has strengthened my Java programming skills and taught me invaluable lessons in problem-solving, logical thinking, and attention to detail.
